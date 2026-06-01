@@ -1,0 +1,8 @@
+[package]
+name = "superinstance/luau-git-world"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Learn version control through Roblox gameplay. Git concepts as game mechanics."
+
+[dependencies]

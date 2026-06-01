@@ -1,0 +1,13 @@
+{
+  "name": "superinstance/luau-git-world",
+  "version": "0.1.0",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "GitWorld": {
+        "$path": "src"
+      }
+    }
+  }
+}
